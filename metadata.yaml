@@ -1,0 +1,28 @@
+_repo: A-History-of-The-Inquisition-of-Spain--vol.-2_43990
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43990-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lea, Henry Charles
+    alias: Lea, H. C. (Henry Charles)
+    birthdate: 1825
+    deathdate: 1909
+    gutenberg_agent_id: '40029'
+    url: http://www.gutenberg.org/2009/agents/40029
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lea
+description: ''
+gutenberg_issued: '2013-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inquisition -- Spain'
+- !lcc 'BX'
+title: A History of the Inquisition of Spain; vol. 2
+url: http://www.gutenberg.org/ebooks/43990
